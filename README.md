@@ -1,6 +1,7 @@
 <h2> Hi everyone...<h2>
 
-![Foto](/dohyun3.jpg "Pacar saya")
+![pacar saya](/dohyun3.jpg "Pacar saya")
+  <img src="dohyun3.jpg" width="200" height="100">
 
 
   <h1>No matter how hard or how impossible it is, never lose sight of your goal.</h1>
