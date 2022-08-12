@@ -1,6 +1,6 @@
 <h2> Hi everyone...<h2>
 
-![Foto](/dohyun2.jpg "Pacar saya")
+![Foto](/dohyun3.jpg "Pacar saya")
 
 
   <h1>No matter how hard or how impossible it is, never lose sight of your goal.</h1>
