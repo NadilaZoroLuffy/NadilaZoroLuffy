@@ -1,8 +1,8 @@
 ### Hi everyone...
 
-No matter how hard or how impossible it is, never lose sight of your goal.
-Terjemahan:
-Tidak peduli seberapa sulit atau seberapa tidak mungkin untuk digapai, jangan pernah melupakan tujuanmu.
+####No matter how hard or how impossible it is, never lose sight of your goal.
+#Terjemahan:
+####Tidak peduli seberapa sulit atau seberapa tidak mungkin untuk digapai, jangan pernah melupakan tujuanmu.
 <!--
 **NadilaZoroLuffy/NadilaZoroLuffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
