@@ -1,8 +1,12 @@
-### Hi everyone...
+<i> Hi everyone...<i>
 
-####No matter how hard or how impossible it is, never lose sight of your goal.
-#Terjemahan:
-####Tidak peduli seberapa sulit atau seberapa tidak mungkin untuk digapai, jangan pernah melupakan tujuanmu.
+![Foto](/dohyun.jpg "Pacar saya")
+
+
+  <h1>No matter how hard or how impossible it is, never lose sight of your goal.</h1>
+  <h3>Terjemahan:</h3>
+  <h1>Tidak peduli seberapa sulit atau seberapa tidak mungkin untuk digapai, jangan pernah melupakan tujuanmu.</h1>
+
 <!--
 **NadilaZoroLuffy/NadilaZoroLuffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
