@@ -1,8 +1,9 @@
 <h2> Hi everyone...<h2>
 
 ![pacar saya](/dohyun3.jpg "Pacar saya")
-  <img src="dohyun3.jpg" width="200" height="100">
-
+  <img src="punya1.jpg" width="300" height="200">
+  <img src="punya2.jpg" width="300" height="200">
+    <img src="punya3.jpg" width="300" height="200">
 
   <h1>No matter how hard or how impossible it is, never lose sight of your goal.</h1>
   <h3>Terjemahan:</h3>
