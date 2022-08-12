@@ -1,4 +1,4 @@
-<i> Hi everyone...<i>
+<h2> Hi everyone...<h2>
 
 ![Foto](/dohyun2.jpg "Pacar saya")
 
@@ -6,6 +6,8 @@
   <h1>No matter how hard or how impossible it is, never lose sight of your goal.</h1>
   <h3>Terjemahan:</h3>
   <h1>Tidak peduli seberapa sulit atau seberapa tidak mungkin untuk digapai, jangan pernah melupakan tujuanmu.</h1>
+  
+ <i>inspirasi kata dari mugiwara</i>
 
 <!--
 **NadilaZoroLuffy/NadilaZoroLuffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
